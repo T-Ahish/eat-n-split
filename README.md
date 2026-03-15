@@ -4,8 +4,8 @@ Eat-n-Split is a simple and interactive **bill-splitting React application** tha
 
 ## 🚀 Live Demo
 
-👉 **Netlify Deployment:** _To be Added_  
-👉 **GitHub Repository:** _To be Added_
+👉 **Netlify Deployment:** https://ahish-eat-n-split.netlify.app/
+👉 **GitHub Repository:** https://github.com/T-Ahish/eat-n-split
 
 ## 🎯 Features
 
