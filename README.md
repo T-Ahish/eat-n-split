@@ -85,15 +85,9 @@ http://localhost:3000
 
 ## 📸 Screenshots
 
-Add screenshots here for better visual presentation.
-
-Example:
-
-```
 ./screenshots/eat-n-split-1.png
 ./screenshots/eat-n-split-2.png
 ./screenshots/eat-n-split-2.png
-```
 
 ## ✅ Possible Improvements
 
